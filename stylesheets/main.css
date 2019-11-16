@@ -6,7 +6,7 @@
 	--rocket-launch-countdown: 10s;
 
 	/* shuttle config */
-	--shuttle-logo: var(--shuttle-logo-NASA);
+	--shuttle-logo: var(--shuttle-logo-nasa;
 	--rocket-fuel: 0;
 }
 
